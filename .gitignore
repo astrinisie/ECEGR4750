@@ -1,0 +1,16 @@
+# Python
+__pycache__
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/launch.json
+
+# Environment variables
+.env
+
+# Virtual environment
+.venv*/
+
+# Data directories
+/data/
