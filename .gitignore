@@ -14,3 +14,9 @@ __pycache__
 
 # Data directories
 /data/
+
+# Jupyter notebook
+/labs/*/.ipynb_checkpoints
+
+# Mac
+.DS_Store
